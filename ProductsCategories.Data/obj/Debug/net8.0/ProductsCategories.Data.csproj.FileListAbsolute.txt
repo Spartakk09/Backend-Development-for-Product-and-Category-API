@@ -1,0 +1,14 @@
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\bin\Debug\net8.0\ProductsCategories.Data.deps.json
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\bin\Debug\net8.0\ProductsCategories.Data.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\bin\Debug\net8.0\ProductsCategories.Data.pdb
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.AssemblyInfo.cs
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\refint\ProductsCategories.Data.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.pdb
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ref\ProductsCategories.Data.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\bin\Debug\net8.0\ProductsCategories.Data.runtimeconfig.json
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Data\obj\Debug\net8.0\ProductsCategories.Data.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\bin\Debug\net8.0\ProductsCategories.Services.deps.json
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\bin\Debug\net8.0\ProductsCategories.Services.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\bin\Debug\net8.0\ProductsCategories.Services.pdb
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\bin\Debug\net8.0\ProductsCategories.Data.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\bin\Debug\net8.0\ProductsCategories.Data.pdb
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.AssemblyInfo.cs
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\Products.5D0EC6A9.Up2Date
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\refint\ProductsCategories.Services.dll
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ProductsCategories.Services.pdb
+C:\Users\User\source\Repos\ApiDevelopment\ProductsCategories.Services\obj\Debug\net8.0\ref\ProductsCategories.Services.dll
