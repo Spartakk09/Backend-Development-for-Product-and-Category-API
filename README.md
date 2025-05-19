@@ -54,7 +54,7 @@ Each product can belong to **2 or 3 categories**. The API supports **pagination*
 ### Installation & Setup
 1. Clone the repository  
    ```bash
-   [git clone https://github.com//Backend-Development-for-Product-Category-API.git](https://github.com/Spartakk09/Backend-Development-for-Product-and-Category-API.git
+   https://github.com/Spartakk09/Backend-Development-for-Product-and-Category-API.git
 ````
 
 2. Navigate to the project directory
